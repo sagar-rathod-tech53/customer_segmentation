@@ -99,7 +99,7 @@ customer_segmentation/
 
 ├── dataset/
 
-│ └── customers.xlsx
+│ └── Online Retail.xlsx
 
 ├── notebooks/
 
@@ -140,7 +140,7 @@ customer_segmentation/
 Clone the repository:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/sagar-rathod-tech53/customer_segmentation.git
 cd customer_segmentation
 ```
 
